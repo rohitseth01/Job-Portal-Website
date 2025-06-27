@@ -25,11 +25,3 @@ dist-ssr
 
 #Environment variables
 .env
-
-echo "# Job-Portal-Website" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/rohitseth01/Job-Portal-Website.git
-git push -u origin main
